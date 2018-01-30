@@ -13,9 +13,9 @@ title                    : "日々のできごと"
 title_separator          : "-"
 name                     : "yumatsuoka"
 description              : "学生しています。クライミングとか日々の出来事とかぼちぼち書いていけたらいいなと思います。"
-url                      : "https://yumatsuoka.github-name.github.io"
+url                      : "https://yumatsuoka.github.io"
 baseurl                  : "/blog"
-repository               : "yumatsuoka/yumatsuoka.github.io"
+repository               : "yumatsuoka/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "yumatsuoka"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "学生をしています。クライミングや日々の出来事をぼちぼち書いていけたらと思っています。"
+  bio              : "クライミングや日々の出来事をぼちぼち書いていけたらと思っています。"
   location         : "Baltimore"
   email            : 
   uri              :
@@ -101,7 +101,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "yumatsuge"
   lastfm           :
   linkedin         : "yumatsuoka"
   pinterest        :
