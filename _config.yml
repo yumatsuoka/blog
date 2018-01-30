@@ -13,7 +13,7 @@ title                    : "日々のできごと"
 title_separator          : "-"
 name                     : "yumatsuoka"
 description              : "学生しています。クライミングとか日々の出来事とかぼちぼち書いていけたらいいなと思います。"
-url                      : "https://yumatsuoka.github-name.github.io/blog"
+url                      : "https://yumatsuoka.github.io/blog"
 baseurl                  :
 repository               : "yumatsuoka/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
