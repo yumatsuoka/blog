@@ -1,1 +1,1 @@
-Sitemap: https://yumatsuoka.github-name.github.io/blog//sitemap.xml
+Sitemap: https://yumatsuoka.github-name.github.io/blog/sitemap.xml
