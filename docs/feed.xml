@@ -1,1 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://yumatsuoka.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yumatsuoka.github.io/blog/" rel="alternate" type="text/html" /><updated>2018-01-30T19:58:43-05:00</updated><id>https://yumatsuoka.github.io/blog/</id><title type="html">日々のできごと</title><subtitle>学生しています。クライミングとか日々の出来事とかぼちぼち書いていけたらいいなと思います。</subtitle><author><name>yumatsuoka</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://yumatsuoka.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yumatsuoka.github.io/blog/" rel="alternate" type="text/html" /><updated>2018-01-31T17:50:23-05:00</updated><id>https://yumatsuoka.github.io/blog/</id><title type="html">日々のできごと</title><subtitle>学生しています。クライミングとか日々の出来事とかぼちぼち書いていけたらいいなと思います。</subtitle><author><name>yumatsuoka</name></author><entry><title type="html">Pepper</title><link href="https://yumatsuoka.github.io/blog/pepper/" rel="alternate" type="text/html" title="Pepper" /><published>2018-01-26T00:00:00-05:00</published><updated>2018-01-26T00:00:00-05:00</updated><id>https://yumatsuoka.github.io/blog/pepper</id><content type="html" xml:base="https://yumatsuoka.github.io/blog/pepper/">&lt;hr /&gt;
+&lt;p&gt;title: “友達の猫の写真をまとめてみた。”
+tags: [猫, pepper, ブログ]
+—&lt;/p&gt;
+
+&lt;h2 id=&quot;ボルチモアで一番仲の良い友達の家にいるねこが好きすぎる&quot;&gt;ボルチモアで一番仲の良い友達の家にいるねこが好きすぎる&lt;/h2&gt;
+
+&lt;p&gt;アメリカのボルチモアに住み始めてはや4ヶ月。&lt;br /&gt;
+ジョンズホプキンス大学の大学院生として、研究に集中できる環境をもらっており&lt;br /&gt;
+平日はアジア人らしく、夜遅くまでラボに残っている。&lt;br /&gt;
+一方で週末はbarに飲みに行ったり、友達の家でchillingしている。&lt;/p&gt;
+
+&lt;p&gt;その友達(自分より１０歳年上のworker)の家のねこが好きすぎて&lt;br /&gt;
+ひたすら可愛がっている。&lt;br /&gt;
+餌をねだる姿が可愛すぎて、さんかく(三角形のねこの固形餌)をついつい与えすぎ、&lt;br /&gt;
+ダイエット中の彼女をつい太らせてしまう。&lt;/p&gt;
+
+&lt;p&gt;ねこの名前は、pepper。&lt;/p&gt;
+
+&lt;h2 id=&quot;さっそくpepperの写真を貼っていきたいがどう画像を表示して行くのだろうか&quot;&gt;さっそくpepperの写真を貼っていきたいがどう画像を表示して行くのだろうか….&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![pepper01](画像のPATH)
+
+or
+
+# 出力される画像のサイズを指定。
+&amp;lt;img src=&quot;画像のPATH&quot; width=&quot;xxxpx&quot;&amp;gt;
+# こっちはGIF画像もいける...？
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;今回はローカルでJekyllにより、htmlをコンパイルして&lt;br /&gt;
+コンパイルずみのhtmlをwebページとして公開するので、&lt;br /&gt;
+PATHはこの記事を書いているmarkdownのファイルからみた&lt;br /&gt;
+画像のディレクトリを相対パスで記していく。&lt;/p&gt;
+
+&lt;h2 id=&quot;pepperの写真を貼っていく&quot;&gt;pepperの写真を貼っていく&lt;/h2&gt;
+
+&lt;p&gt;上のmarkdownの記法のうち、下の文法を使って&lt;br /&gt;
+画像を貼ってみる。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01.jpg&quot; width=&quot;320px&quot; /&gt;&lt;br /&gt;
+test01
+&lt;img src=&quot;/assets/images/01.jpg&quot; width=&quot;320px&quot; /&gt;&lt;br /&gt;
+test02
+&lt;img src=&quot;assets/images/01.jpg&quot; width=&quot;320px&quot; /&gt;&lt;br /&gt;
+test03
+&lt;img src=&quot;/assets/images/01.jpg&quot; alt=&quot;pepper01&quot; /&gt;
+&lt;img src=&quot;assets/images/01.jpg&quot; alt=&quot;pepper01&quot; /&gt;
+&lt;img src=&quot;02.jpg&quot; width=&quot;320px&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;03.jpg&quot; width=&quot;320px&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;04.jpg&quot; width=&quot;320px&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;05.jpg&quot; width=&quot;320px&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;06.jpg&quot; width=&quot;320px&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;07.jpg&quot; width=&quot;320px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ここからGIF画像を２枚はる。見れるかな？&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;08.gif&quot; width=&quot;320px&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;09.gif&quot; width=&quot;320px&quot; /&gt;&lt;/p&gt;</content><author><name>yumatsuoka</name></author><summary type="html">title: “友達の猫の写真をまとめてみた。” tags: [猫, pepper, ブログ] —</summary></entry><entry><title type="html">First post. 書きたいこと。</title><link href="https://yumatsuoka.github.io/blog/first-post/" rel="alternate" type="text/html" title="First post. 書きたいこと。" /><published>2018-01-25T00:00:00-05:00</published><updated>2018-01-25T00:00:00-05:00</updated><id>https://yumatsuoka.github.io/blog/first-post</id><content type="html" xml:base="https://yumatsuoka.github.io/blog/first-post/">&lt;h2 id=&quot;ブログのモチベーション&quot;&gt;ブログのモチベーション&lt;/h2&gt;
+
+&lt;p&gt;情報系の学生なのにWeb系の知識がないなーと思ったので、&lt;br /&gt;
+JekyllとGithubを使ってWebページを作ってみました。&lt;/p&gt;
+
+&lt;p&gt;このブログをちょこちょこいじって
+Web系の知識を学んでいきたいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;書くかもしれないこと&quot;&gt;書く(かもしれない)こと&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;日々のできごと&lt;/li&gt;
+  &lt;li&gt;留学中のボルチモアの話&lt;/li&gt;
+  &lt;li&gt;Johns Hopkins Univerisity(ジョンズホプキンス大学)のこと&lt;/li&gt;
+  &lt;li&gt;Web系の知識で学んだことのまとめ&lt;/li&gt;
+  &lt;li&gt;クライミング のこと&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;三日坊主にならないように頑張ります。&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</content><author><name>yumatsuoka</name></author><category term="firstpost" /><category term="モチベーション" /><summary type="html">ブログのモチベーション</summary></entry></feed>
