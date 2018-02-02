@@ -98,19 +98,33 @@ minimal-mistakesのデザインのページを公開できたはず。
 ブログの記事の公開に向けての作業。  
 基本は、Minimal Mistakesの公式をみて理解していった。  
 
-https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/  
+https://mmistakes.github.io/minimal-mistakes/year-archive/  
 
+### markdownでかいたブログの記事について
 markdownで書いた公開したい記事は`_post`ディレクトリに置けば良いらしい。  
 
 https://github.com/mmistakes/minimal-mistakes/tree/master/docs  
 
-画像を貼るときは、  
+ブログのタイトルやタグやカテゴリーの指定は、以下のように  
+markdownの記事の一番上に記述するらしい。  
+(知識がなさすぎて、タイトルの記述方法について困った)  
+[参考１](https://mmistakes.github.io/minimal-mistakes/edge%20case/edge-case-many-tags/)  
+[参考２](https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_posts/2009-06-01-edge-case-many-tags.md)  
+
+
+### 画像を貼るとき  
+画像そのものは、`/assets/images/`のディレクトリに入れておく。
 
 ```
-![hoge]({{ site.url }}{{ site.baseurl }}/assets/images/hoge.jpg)
+src = {{ site.url }}{{ site.baseurl }}/assets/images/hoge.jpg
+と、画像のディレクトリを指定して、
+markdownの記法を使って、以下のsrcの部分に上の画像のPATH(右辺)を入れる。
+![hoge](src)
 ```
 
 と書けばいいらしい。  
+https://mmistakes.github.io/minimal-mistakes/post%20formats/post-image-standard/  
+
 あとはmarkdownの記法にそって、デコレートしていく。  
 
 何も知らなすぎて、調べること、わからないことが多すぎてつらい...  

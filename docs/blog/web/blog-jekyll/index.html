@@ -373,19 +373,32 @@ minimal-mistakesのデザインのページを公開できたはず。</p>
 <p>ブログの記事の公開に向けての作業。<br />
 基本は、Minimal Mistakesの公式をみて理解していった。</p>
 
-<p>https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/</p>
+<p>https://mmistakes.github.io/minimal-mistakes/year-archive/</p>
 
+<h3 id="markdownでかいたブログの記事について">markdownでかいたブログの記事について</h3>
 <p>markdownで書いた公開したい記事は<code class="highlighter-rouge">_post</code>ディレクトリに置けば良いらしい。</p>
 
 <p>https://github.com/mmistakes/minimal-mistakes/tree/master/docs</p>
 
-<p>画像を貼るときは、</p>
+<p>ブログのタイトルやタグやカテゴリーの指定は、以下のように<br />
+markdownの記事の一番上に記述するらしい。<br />
+(知識がなさすぎて、タイトルの記述方法について困った)<br />
+<a href="https://mmistakes.github.io/minimal-mistakes/edge%20case/edge-case-many-tags/">参考１</a><br />
+<a href="https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_posts/2009-06-01-edge-case-many-tags.md">参考２</a></p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>![hoge](https://yumatsuoka.github.io/blog/assets/images/hoge.jpg)
+<h3 id="画像を貼るとき">画像を貼るとき</h3>
+<p>画像そのものは、<code class="highlighter-rouge">/assets/images/</code>のディレクトリに入れておく。</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>src = https://yumatsuoka.github.io/blog/assets/images/hoge.jpg
+と、画像のディレクトリを指定して、
+markdownの記法を使って、以下のsrcの部分に上の画像のPATH(右辺)を入れる。
+![hoge](src)
 </code></pre></div></div>
 
 <p>と書けばいいらしい。<br />
-あとはmarkdownの記法にそって、デコレートしていく。</p>
+https://mmistakes.github.io/minimal-mistakes/post%20formats/post-image-standard/</p>
+
+<p>あとはmarkdownの記法にそって、デコレートしていく。</p>
 
 <p>何も知らなすぎて、調べること、わからないことが多すぎてつらい…</p>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://yumatsuoka.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yumatsuoka.github.io/blog/" rel="alternate" type="text/html" /><updated>2018-02-01T19:12:38-05:00</updated><id>https://yumatsuoka.github.io/blog/</id><title type="html">日々のできごと</title><subtitle>学生しています。クライミングとか日々の出来事とかぼちぼち書いていけたらいいなと思います。</subtitle><author><name>yumatsuoka</name></author><entry><title type="html">Github Pages + Jekyll で作るブログ</title><link href="https://yumatsuoka.github.io/blog/blog/web/blog-jekyll/" rel="alternate" type="text/html" title="Github Pages + Jekyll で作るブログ" /><published>2018-02-01T00:00:00-05:00</published><updated>2018-02-01T00:00:00-05:00</updated><id>https://yumatsuoka.github.io/blog/blog/web/blog-jekyll</id><content type="html" xml:base="https://yumatsuoka.github.io/blog/blog/web/blog-jekyll/">&lt;h2 id=&quot;モチベーション&quot;&gt;モチベーション&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://yumatsuoka.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yumatsuoka.github.io/blog/" rel="alternate" type="text/html" /><updated>2018-02-01T19:26:31-05:00</updated><id>https://yumatsuoka.github.io/blog/</id><title type="html">日々のできごと</title><subtitle>学生しています。クライミングとか日々の出来事とかぼちぼち書いていけたらいいなと思います。</subtitle><author><name>yumatsuoka</name></author><entry><title type="html">Github Pages + Jekyll で作るブログ</title><link href="https://yumatsuoka.github.io/blog/blog/web/blog-jekyll/" rel="alternate" type="text/html" title="Github Pages + Jekyll で作るブログ" /><published>2018-02-01T00:00:00-05:00</published><updated>2018-02-01T00:00:00-05:00</updated><id>https://yumatsuoka.github.io/blog/blog/web/blog-jekyll</id><content type="html" xml:base="https://yumatsuoka.github.io/blog/blog/web/blog-jekyll/">&lt;h2 id=&quot;モチベーション&quot;&gt;モチベーション&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;自分の専門以外、日常を気軽にかけるブログ作る&lt;/li&gt;
   &lt;li&gt;Markdownを使ってかけるブログ作りたい&lt;/li&gt;
@@ -91,19 +91,32 @@ minimal-mistakesのデザインのページを公開できたはず。&lt;/p&gt;
 &lt;p&gt;ブログの記事の公開に向けての作業。&lt;br /&gt;
 基本は、Minimal Mistakesの公式をみて理解していった。&lt;/p&gt;
 
-&lt;p&gt;https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/&lt;/p&gt;
+&lt;p&gt;https://mmistakes.github.io/minimal-mistakes/year-archive/&lt;/p&gt;
 
+&lt;h3 id=&quot;markdownでかいたブログの記事について&quot;&gt;markdownでかいたブログの記事について&lt;/h3&gt;
 &lt;p&gt;markdownで書いた公開したい記事は&lt;code class=&quot;highlighter-rouge&quot;&gt;_post&lt;/code&gt;ディレクトリに置けば良いらしい。&lt;/p&gt;
 
 &lt;p&gt;https://github.com/mmistakes/minimal-mistakes/tree/master/docs&lt;/p&gt;
 
-&lt;p&gt;画像を貼るときは、&lt;/p&gt;
+&lt;p&gt;ブログのタイトルやタグやカテゴリーの指定は、以下のように&lt;br /&gt;
+markdownの記事の一番上に記述するらしい。&lt;br /&gt;
+(知識がなさすぎて、タイトルの記述方法について困った)&lt;br /&gt;
+&lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/edge%20case/edge-case-many-tags/&quot;&gt;参考１&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_posts/2009-06-01-edge-case-many-tags.md&quot;&gt;参考２&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![hoge](https://yumatsuoka.github.io/blog/assets/images/hoge.jpg)
+&lt;h3 id=&quot;画像を貼るとき&quot;&gt;画像を貼るとき&lt;/h3&gt;
+&lt;p&gt;画像そのものは、&lt;code class=&quot;highlighter-rouge&quot;&gt;/assets/images/&lt;/code&gt;のディレクトリに入れておく。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;src = https://yumatsuoka.github.io/blog/assets/images/hoge.jpg
+と、画像のディレクトリを指定して、
+markdownの記法を使って、以下のsrcの部分に上の画像のPATH(右辺)を入れる。
+![hoge](src)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;と書けばいいらしい。&lt;br /&gt;
-あとはmarkdownの記法にそって、デコレートしていく。&lt;/p&gt;
+https://mmistakes.github.io/minimal-mistakes/post%20formats/post-image-standard/&lt;/p&gt;
+
+&lt;p&gt;あとはmarkdownの記法にそって、デコレートしていく。&lt;/p&gt;
 
 &lt;p&gt;何も知らなすぎて、調べること、わからないことが多すぎてつらい…&lt;/p&gt;
 
