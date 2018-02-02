@@ -1,6 +1,7 @@
 ---
 title: "First post. 書きたいこと。"
-tags: [firstpost, モチベーション]
+tags: [firstpost, motivation]
+categories: [blog]
 ---
 
 ## ブログのモチベーション
