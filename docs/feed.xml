@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://yumatsuoka.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yumatsuoka.github.io/blog/" rel="alternate" type="text/html" /><updated>2018-02-01T19:02:36-05:00</updated><id>https://yumatsuoka.github.io/blog/</id><title type="html">日々のできごと</title><subtitle>学生しています。クライミングとか日々の出来事とかぼちぼち書いていけたらいいなと思います。</subtitle><author><name>yumatsuoka</name></author><entry><title type="html">Github Pages + Jekyll で作るブログ</title><link href="https://yumatsuoka.github.io/blog/blog/web/blog-jekyll/" rel="alternate" type="text/html" title="Github Pages + Jekyll で作るブログ" /><published>2018-02-01T00:00:00-05:00</published><updated>2018-02-01T00:00:00-05:00</updated><id>https://yumatsuoka.github.io/blog/blog/web/blog-jekyll</id><content type="html" xml:base="https://yumatsuoka.github.io/blog/blog/web/blog-jekyll/">&lt;h2 id=&quot;モチベーション&quot;&gt;モチベーション&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://yumatsuoka.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yumatsuoka.github.io/blog/" rel="alternate" type="text/html" /><updated>2018-02-01T19:12:38-05:00</updated><id>https://yumatsuoka.github.io/blog/</id><title type="html">日々のできごと</title><subtitle>学生しています。クライミングとか日々の出来事とかぼちぼち書いていけたらいいなと思います。</subtitle><author><name>yumatsuoka</name></author><entry><title type="html">Github Pages + Jekyll で作るブログ</title><link href="https://yumatsuoka.github.io/blog/blog/web/blog-jekyll/" rel="alternate" type="text/html" title="Github Pages + Jekyll で作るブログ" /><published>2018-02-01T00:00:00-05:00</published><updated>2018-02-01T00:00:00-05:00</updated><id>https://yumatsuoka.github.io/blog/blog/web/blog-jekyll</id><content type="html" xml:base="https://yumatsuoka.github.io/blog/blog/web/blog-jekyll/">&lt;h2 id=&quot;モチベーション&quot;&gt;モチベーション&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;自分の専門以外、日常を気軽にかけるブログ作る&lt;/li&gt;
   &lt;li&gt;Markdownを使ってかけるブログ作りたい&lt;/li&gt;
@@ -83,15 +83,33 @@ git commit -m &quot;Add docs&quot;
   &lt;li&gt;公開されたwebページにアクセス&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;ここまでで記事は何もないが、
+&lt;p&gt;ここまでで記事は何もないが、&lt;br /&gt;
 minimal-mistakesのデザインのページを公開できたはず。&lt;/p&gt;
 
 &lt;h2 id=&quot;ブログ&quot;&gt;ブログ&lt;/h2&gt;
 
-&lt;p&gt;ブログの記事の公開に向けての作業。
-基本は、Minimal Mistakesの公式をみて理解していった。
-Jekyll
-markdownで書いた公開したい記事は&lt;code class=&quot;highlighter-rouge&quot;&gt;_post&lt;/code&gt;ディレクトリに置けば良い。&lt;/p&gt;</content><author><name>yumatsuoka</name></author><category term="jekyll" /><category term="web" /><category term="minimal-mistakes" /><summary type="html">モチベーション 自分の専門以外、日常を気軽にかけるブログ作る Markdownを使ってかけるブログ作りたい 少しでもweb系の勉強してみたい。 Githubの恩恵をもっと預かりたい。</summary></entry><entry><title type="html">友達の猫の写真をまとめてみた。</title><link href="https://yumatsuoka.github.io/blog/blog/pepper/" rel="alternate" type="text/html" title="友達の猫の写真をまとめてみた。" /><published>2018-01-26T00:00:00-05:00</published><updated>2018-01-26T00:00:00-05:00</updated><id>https://yumatsuoka.github.io/blog/blog/pepper</id><content type="html" xml:base="https://yumatsuoka.github.io/blog/blog/pepper/">&lt;h2 id=&quot;ボルチモアで一番仲の良い友達の家にいるねこが好きすぎる&quot;&gt;ボルチモアで一番仲の良い友達の家にいるねこが好きすぎる&lt;/h2&gt;
+&lt;p&gt;ブログの記事の公開に向けての作業。&lt;br /&gt;
+基本は、Minimal Mistakesの公式をみて理解していった。&lt;/p&gt;
+
+&lt;p&gt;https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/&lt;/p&gt;
+
+&lt;p&gt;markdownで書いた公開したい記事は&lt;code class=&quot;highlighter-rouge&quot;&gt;_post&lt;/code&gt;ディレクトリに置けば良いらしい。&lt;/p&gt;
+
+&lt;p&gt;https://github.com/mmistakes/minimal-mistakes/tree/master/docs&lt;/p&gt;
+
+&lt;p&gt;画像を貼るときは、&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![hoge](https://yumatsuoka.github.io/blog/assets/images/hoge.jpg)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;と書けばいいらしい。&lt;br /&gt;
+あとはmarkdownの記法にそって、デコレートしていく。&lt;/p&gt;
+
+&lt;p&gt;何も知らなすぎて、調べること、わからないことが多すぎてつらい…&lt;/p&gt;
+
+&lt;p&gt;記事が書けたら上の通り、webページのビルドとデプロイして&lt;br /&gt;
+公開しているwebページが更新されていたら、&lt;br /&gt;
+終わり！&lt;/p&gt;</content><author><name>yumatsuoka</name></author><category term="jekyll" /><category term="web" /><category term="minimal-mistakes" /><summary type="html">モチベーション 自分の専門以外、日常を気軽にかけるブログ作る Markdownを使ってかけるブログ作りたい 少しでもweb系の勉強してみたい。 Githubの恩恵をもっと預かりたい。</summary></entry><entry><title type="html">友達の猫の写真をまとめてみた。</title><link href="https://yumatsuoka.github.io/blog/blog/pepper/" rel="alternate" type="text/html" title="友達の猫の写真をまとめてみた。" /><published>2018-01-26T00:00:00-05:00</published><updated>2018-01-26T00:00:00-05:00</updated><id>https://yumatsuoka.github.io/blog/blog/pepper</id><content type="html" xml:base="https://yumatsuoka.github.io/blog/blog/pepper/">&lt;h2 id=&quot;ボルチモアで一番仲の良い友達の家にいるねこが好きすぎる&quot;&gt;ボルチモアで一番仲の良い友達の家にいるねこが好きすぎる&lt;/h2&gt;
 
 &lt;p&gt;アメリカのボルチモアに住み始めてはや4ヶ月。&lt;br /&gt;
 ジョンズホプキンス大学の大学院生として、研究に集中できる環境をもらっており&lt;br /&gt;

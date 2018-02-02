@@ -90,19 +90,31 @@ git commit -m "Add docs"
 1. `master branch /docs folder`を選択
 1. 公開されたwebページにアクセス
 
-ここまでで記事は何もないが、
-minimal-mistakesのデザインのページを公開できたはず。
+ここまでで記事は何もないが、  
+minimal-mistakesのデザインのページを公開できたはず。  
 
 ## ブログ
 
-ブログの記事の公開に向けての作業。
-基本は、Minimal Mistakesの公式をみて理解していった。
-Jekyll
-markdownで書いた公開したい記事は`_post`ディレクトリに置けば良い。
+ブログの記事の公開に向けての作業。  
+基本は、Minimal Mistakesの公式をみて理解していった。  
 
+https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/  
 
+markdownで書いた公開したい記事は`_post`ディレクトリに置けば良いらしい。  
 
+https://github.com/mmistakes/minimal-mistakes/tree/master/docs  
 
+画像を貼るときは、  
 
+```
+![hoge]({{ site.url }}{{ site.baseurl }}/assets/images/hoge.jpg)
+```
 
+と書けばいいらしい。  
+あとはmarkdownの記法にそって、デコレートしていく。  
 
+何も知らなすぎて、調べること、わからないことが多すぎてつらい...  
+
+記事が書けたら上の通り、webページのビルドとデプロイして  
+公開しているwebページが更新されていたら、  
+終わり！  
