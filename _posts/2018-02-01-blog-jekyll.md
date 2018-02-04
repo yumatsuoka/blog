@@ -7,13 +7,10 @@ categories: [blog, web]
 ## モチベーション
 - 自分の専門以外、日常を気軽にかけるブログ作る
 - Markdownを使ってかけるブログ作りたい
-- 少しでもweb系の勉強してみたい。
-- Githubの恩恵をもっと預かりたい。
+- 少しでもweb系の勉強してみたい
+- Githubの恩恵をもっと預かりたい
 
-そんな気持ちから、はてなブログでも良かったが  
-無料でブログを開設できる(かっこ良さげなgithub.ioドメインを使える)  
-Github pages + Jekyll + minimal mistakes  
-でブログを作ってみました。  
+そんな気持ちから、はてなブログでも良かったが無料でブログを開設できる(かっこ良さげなgithub.ioドメインを使える) Github pages + Jekyll + minimal mistakesでブログを作った。
 
 この作業をする時点で、webの知識ゼロ、Jekyllは名前すら知らなかった。  
 
@@ -21,42 +18,39 @@ Github pages + Jekyll + minimal mistakes
 ## Github Pagesでwebページを作成してみた
 
 とりあえず下記サイトを参考に  
-https://qiita.com/budougumi0617/items/221bb946d1c90d6769e9  
+<https://qiita.com/budougumi0617/items/221bb946d1c90d6769e9>
 
-Github PagesのAutomatic Page Generator(自動生成機能)を使って  
-テーマはシンプルな、[Minimal](https://orderedlist.com/minimal/)を選びwebページを公開するところまでやってみたが、  
-ブログ形式のwebページを作る方法がわからない。  
+
+Github PagesのAutomatic Page Generator(自動生成機能)を使ってテーマはシンプルな、[Minimal](https://orderedlist.com/minimal/)を選びwebページを公開するところまでやってみたが、ブログ形式のwebページを作る方法がわからない。  
+
 テーマの公式サイト、レポジトリを見てもわからない(**自分がwebの知識ゼロ**)  
-https://orderedlist.com/minimal/  
+<https://orderedlist.com/minimal/>
 
 
 ## JekyllとMinimal Mistakesを使ったwebページの作成
 
 そんな状態でおもむろに  
+
 ```
 minimal github pages ブログ
 ```
-でググってみたところ、  
-以下のサイトを参考にすることでやりたいことができそうなので、  
-みながら作業していきました。  
 
-xk11i.biz  
-http://k11i.biz/blog/2016/08/11/starting-jekyll-with-Minimal-Mistakes/  
+でググってみたところ、以下のサイトを参考にすることでやりたいことができそうなので、みながら作業していった。
+
+**xk11i.biz**  
+<http://k11i.biz/blog/2016/08/11/starting-jekyll-with-Minimal-Mistakes/>
 
 markdownで記事を書けばブログ公開...  
-そんな楽な環境を目指していましたが、  
-Jekyllを使って手動でデプロイという思わぬコストが発生してしまいました。  
-自動化できそうだから、そのうちやる！  
+そんな楽な環境を目指していたが、Jekyllを使って手動でデプロイという思わぬコストが発生してしまった。自動化できそうだから、そのうちやる！  
 
 ```
 # メモ：以下でググって作業
 github pages jekyll 自動デプロイ
 ```
 
+
 そんなこんなで作業開始。  
-詳しくは  
-[xk11i.biz](http://k11i.biz/blog/2016/08/11/starting-jekyll-with-Minimal-Mistakes/)
-を参照。  
+詳しくは[xk11i.biz](http://k11i.biz/blog/2016/08/11/starting-jekyll-with-Minimal-Mistakes/)を参照。  
 
 ```
 # minimal-mistakesを落としてくる。
@@ -93,23 +87,26 @@ git commit -m "Add docs"
 ここまでで記事は何もないが、  
 minimal-mistakesのデザインのページを公開できたはず。  
 
-## ブログ
+## ブログ形式のwebサイトを作る。
 
 ブログの記事の公開に向けての作業。  
 基本は、Minimal Mistakesの公式をみて理解していった。  
 
-https://mmistakes.github.io/minimal-mistakes/year-archive/  
+<https://mmistakes.github.io/minimal-mistakes/year-archive/>
 
 ### markdownでかいたブログの記事について
+
 markdownで書いた公開したい記事は`_post`ディレクトリに置けば良いらしい。  
 
-https://github.com/mmistakes/minimal-mistakes/tree/master/docs  
+<https://github.com/mmistakes/minimal-mistakes/tree/master/docs>
 
 ブログのタイトルやタグやカテゴリーの指定は、以下のように  
 markdownの記事の一番上に記述するらしい。  
 (知識がなさすぎて、タイトルの記述方法について困った)  
-[参考１](https://mmistakes.github.io/minimal-mistakes/edge%20case/edge-case-many-tags/)  
-[参考２](https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_posts/2009-06-01-edge-case-many-tags.md)  
+
+<https://mmistakes.github.io/minimal-mistakes/edge%20case/edge-case-many-tags/>  
+
+<https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_posts/2009-06-01-edge-case-many-tags.md>  
 
 
 ### 画像を貼るとき  
@@ -118,12 +115,12 @@ markdownの記事の一番上に記述するらしい。
 ```
 src = {{ site.url }}{{ site.baseurl }}/assets/images/hoge.jpg
 と、画像のディレクトリを指定して、
-markdownの記法を使って、以下のsrcの部分に上の画像のPATH(右辺)を入れる。
+markdownの記法を使って、以下のsrcの部分に上の画像のPATH(右辺)のような形で記入。
 ![hoge](src)
 ```
 
 と書けばいいらしい。  
-https://mmistakes.github.io/minimal-mistakes/post%20formats/post-image-standard/  
+<https://mmistakes.github.io/minimal-mistakes/post%20formats/post-image-standard/>
 
 あとはmarkdownの記法にそって、デコレートしていく。  
 
