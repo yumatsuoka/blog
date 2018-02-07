@@ -5,14 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "日々のできごと"
+title                    : "日々のできごとを思うがままに"
 title_separator          : "-"
 name                     : "yumatsuoka"
-description              : "学生しています。クライミングとか日々の出来事とかぼちぼち書いていけたらいいなと思います。"
+description              : "クライミングやアメリカのボルチモアの情報、ジョンズホプキンス大学のことを書いています。"
 url                      : "https://yumatsuoka.github.io"
 baseurl                  : "/blog"
 repository               : "yumatsuoka/blog"
@@ -144,7 +145,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
@@ -220,7 +220,7 @@ category_archive:
 tag_archive:
   type: jekyll-archives
   path: /tags/
-  #https://github.com/jekyll/jekyll-archives
+  # https://github.com/jekyll/jekyll-archives
   jekyll-archives:
     enabled:
       - categories
