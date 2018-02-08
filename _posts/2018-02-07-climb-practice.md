@@ -10,10 +10,9 @@ categories: [ブログ, クライミング, ]
 ## １週間のトレーニングスケジュール
 
 １週間のうち、火水木曜日の3日連続で2時間登るようにしている。  
-というのも、[筋肉には増強を効率化させる超回復というタイミング](https://papaoshigoto.com/archives/121)が存在し、  
-その[超回復の期間は筋肉によって異なっているらしい](http://homegym-training.com/training/training1_06.html)ので、  
+というのも、[筋肉には増強を効率化させる超回復というタイミング](https://papaoshigoto.com/archives/121)が存在し、その[超回復の期間は筋肉によって異なっているらしい](http://homegym-training.com/training/training1_06.html)ので、  
 
-![figure01]({{ site.url }}{{ site.baseurl }}/assets/images/climb-practice01.png)
+![figure01]({{ site.url }}{{ site.baseurl }}/assets/images/climb-practice01.png)  
 [筋肉の成長に必要な超回復と分割法](http://homegym-training.com/training/training1_06.html)より引用。  
 
 パンプしやすく筋肉痛になりやすい(細かい筋肉の集まりである)前腕の回復が２４時間なので、連続で3日間やっていても超回復の恩恵を受けることができる。  
