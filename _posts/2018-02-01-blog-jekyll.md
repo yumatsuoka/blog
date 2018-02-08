@@ -4,6 +4,8 @@ tags: [jekyll, web, minimal-mistakes]
 categories: [blog, web]
 ---
 
+GitHub Pages + Jekyll + minimal-mistakesを使ってブログを作ってみた。その作業の備忘録。  
+
 ## モチベーション
 - 自分の専門以外、日常を気軽にかけるブログ作る
 - Markdownを使ってかけるブログ作りたい

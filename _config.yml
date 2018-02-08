@@ -17,7 +17,7 @@ description              : "クライミングやアメリカのボルチモア�
 url                      : "https://yumatsuoka.github.io"
 baseurl                  : "/blog"
 repository               : "yumatsuoka/blog"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/teaser_500x300.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
