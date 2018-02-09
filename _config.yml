@@ -146,6 +146,7 @@ exclude:
   - README
   - tmp
   - /test # ignore Minimal Mistakes /test
+  - run.sh
 keep_files:
   - .git
   - .svn
