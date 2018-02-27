@@ -27,8 +27,8 @@ categories: [ブログ, 留学, アメリカ, ボルチモア]
 
 多くの人が芝生にいたが、驚いたのはこの学生たちの振る舞い。  
 
-![hoge01]({{ site.url }}{{ site.baseurl }}/assets/images/hotday-winter01.jpg)  
-![hoge02]({{ site.url }}{{ site.baseurl }}/assets/images/hotday-winter01.jpg)  
+![hoge01]({{ site.url }}{{ site.baseurl }}/assets/images/hotday-winter01.png)  
+![hoge02]({{ site.url }}{{ site.baseurl }}/assets/images/hotday-winter01.png)  
 
 みんなそれぞれ好みの音楽を大音量でかけていて、  
 中にはどこからかバックパックよりも大きいスピーカーを持ってきている人もいた。  
