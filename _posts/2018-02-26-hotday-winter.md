@@ -4,7 +4,7 @@ tags: []
 categories: [ブログ, 留学, アメリカ, ボルチモア]
 ---
 
-先日、アメリカのボルチモアで、日本の冬2月ではありえない、** 気温が26度** を超える日があった。  
+先日、アメリカのボルチモアで、日本の冬2月ではありえない、**気温が26度** を超える日があった。  
 その日の様子を簡単に書いてみる。  
 
 ## ジョンズホプキンス大学の様子
@@ -28,7 +28,7 @@ categories: [ブログ, 留学, アメリカ, ボルチモア]
 多くの人が芝生にいたが、驚いたのはこの学生たちの振る舞い。  
 
 ![hoge01]({{ site.url }}{{ site.baseurl }}/assets/images/hotday-winter01.png)  
-![hoge02]({{ site.url }}{{ site.baseurl }}/assets/images/hotday-winter01.png)  
+![hoge02]({{ site.url }}{{ site.baseurl }}/assets/images/hotday-winter02.png)  
 
 みんなそれぞれ好みの音楽を大音量でかけていて、  
 中にはどこからかバックパックよりも大きいスピーカーを持ってきている人もいた。  
