@@ -3,13 +3,11 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-# hugo -t hugo-bootstrap-premium
 hugo
 
-# Go To Public folder
-cd docs
 # Add changes to git.
-git add .
+git add docs
+git add source/assets/images
 
 # Commit changes.
 msg="rebuilding site `date`"
@@ -22,7 +20,6 @@ git commit -m "$msg"
 git push origin master
 
 # Come Back up to the Project Root
-cd ..
 
 # Commit source repository changes
 git add .
