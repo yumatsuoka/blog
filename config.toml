@@ -4,15 +4,14 @@ theme = "hugo-tranquilpeak-theme"
 # information
 title = "日々のできごとを思うがままに"
 baseURL = "https://yumatsuoka.github.io/blog"
-#baseurl = "https://yumatsuoka.github.io/blog"#robust
 languageCode = "ja-jp"
-defaultContentLanguage = "ja-jp"
+defaultContentLanguage = "ja"
 hasCJKLanguage = true
 googleAnalytics = "UA-112843722-2"
 paginate = 5
 publishDir = "docs"
 enableRobotsTXT = true #imperfect
-canonifyURLs = true #imperfect
+canonifyURLs = true
 
 
 [permalinks]
@@ -23,10 +22,10 @@ canonifyURLs = true #imperfect
     category = "categories" #tranquilpeak
     archive = "archives" #tranquilpeak
 
-[author]
-	name = "Yuma Matsuoka"
-    bio = "AI研究をジョンズホプキンス大学の大学院生として行なっています。  ボルチモアに住み、ボルダリングやクライミングにはまっています。" #tranquilpeak
-    job = "graduate student"
+[author] #tranquilpeak
+	name = "yumatsuoka"
+    bio = "ジョンズホプキンス大学の大学院生としてAI研究をしています。ボルチモアに住み、ボルダリングやロープクライミングにはまっています。" #tranquilpeak
+    job = "学生"
     location = "Baltimore, US" #tranquilpeak
 	#email = "a.iebako.yuma@gmail.com"
     picture = "source/assets/images/bio-photo.jpg" #tranquilpeak
