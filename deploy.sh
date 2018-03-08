@@ -7,7 +7,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo
 
 # Go To Public folder
-cd doc
+cd docs
 # Add changes to git.
 git add .
 

@@ -10,7 +10,7 @@ defaultContentLanguage = "ja-jp"
 hasCJKLanguage = true
 googleAnalytics = "UA-112843722-2"
 paginate = 5
-publishDir = "doc"
+publishDir = "docs"
 enableRobotsTXT = true #imperfect
 canonifyURLs = true #imperfect
 
