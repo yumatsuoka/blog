@@ -1,19 +1,25 @@
 ---
 title: "JekyllからHugoに移行してみた。"
-date: 2018-03-07T16:49:11-05:00
-draft: true
+date: 2018-03-07
+draft: false
 tags: []
 categories: ["ブログ", "web"]
-thumbnailImagePosition: left
-thumbnailImage: hoge
 
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage: 
 ---
 
+
 ブログのデプロイをjekyllからHugoに変更した。
-なんとなく、新しいことやって見たいと思ったから。
 
 <!--more-->
 
+なんとなく、新しいことやって見たいと思ったから。
+<!-- toc -->
+
+## 作業の内容
 ここに作業の内容も書く。
 
 [Hugo Future Imperfect](https://themes.gohugo.io/future-imperfect/)

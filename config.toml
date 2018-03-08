@@ -28,7 +28,8 @@ canonifyURLs = true
     job = "学生"
     location = "Baltimore, US" #tranquilpeak
 	#email = "a.iebako.yuma@gmail.com"
-    picture = "source/assets/images/bio-photo.jpg" #tranquilpeak
+    picture = "bio-photo.jpg" #tranquilpeak
+    #picture = "source/assets/images/bio-photo.jpg" #tranquilpeak
 	
 [params]
     author = "Yuma Matsuoka" 
@@ -41,7 +42,8 @@ canonifyURLs = true
     hierarchicalCategories = false #tranquilpeak
     description = "ボルチモアのジョンズホプキンス大学で研究しつつ、クライミングやボルダリングをする日々" #tranquilpeak
     sidebarBehavior = 1 #tranquilpeak これがサイドバーのレイアウトを変えるフラグ1から6まで。
-    coverImage = "source/assets/images/teaser_500x300.jpg" #tranquilpeak googlephotoなどクラウド上にあげられる場合はurl, またはローカル
+    coverImage = "teaser_500x300.jpg" #tranquilpeak googlephotoなどクラウド上にあげられる場合はurl, またはローカル
+    #coverImage = "source/assets/images/teaser_500x300.jpg" #tranquilpeak googlephotoなどクラウド上にあげられる場合はurl, またはローカル
     imageGallery = true #tranquilpeak
     thumbnailImage = true #tranquilpeak
     thumbnailImagePosition = "bottom" #tranquilpeak
