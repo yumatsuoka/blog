@@ -1,10 +1,23 @@
 ---
 title: "First post. 書きたいこと。"
+date: 2018-01-25
+draft: false
 tags: []
 categories: [ブログ, モチベーション]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
-このブログで書きたいことをまとめてみる。  
+(ネタがないので)このブログで書きたいことをまとめてみる。  
+
+<!--more-->
+
+# このブログで書きたいこと
+<!-- toc -->
 
 ## ブログのモチベーション
 
