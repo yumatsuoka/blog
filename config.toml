@@ -29,7 +29,7 @@ canonifyURLs = true
     location = "Baltimore, US" #tranquilpeak
 	#email = "a.iebako.yuma@gmail.com"
     #picture = "source/assets/images/bio-photo.jpg" #tranquilpeak
-    picture = "https://1drv.ms/u/s!AiyfghebI2F_h1oxiohEngrbnelf"
+    picture = "https://www.flickr.com/photos/153075010@N07/39803594885/in/dateposted-public/"
 	
 [params]
     author = "Yuma Matsuoka" 
@@ -42,7 +42,7 @@ canonifyURLs = true
     hierarchicalCategories = false #tranquilpeak
     description = "ボルチモアのジョンズホプキンス大学で研究しつつ、クライミングやボルダリングをする日々" #tranquilpeak
     sidebarBehavior = 1 #tranquilpeak これがサイドバーのレイアウトを変えるフラグ1から6まで。
-    coverImage = "https://1drv.ms/u/s!AiyfghebI2F_h3_cLok2CJOrPjU-" #tranquilpeak googlephotoなどクラウド上にあげられる場合はurl, またはローカル
+    coverImage = "https://www.flickr.com/photos/153075010@N07/39803593975/in/dateposted-public/" #tranquilpeak googlephotoなどクラウド上にあげられる場合はurl, またはローカル
     imageGallery = true #tranquilpeak
     thumbnailImage = true #tranquilpeak
     thumbnailImagePosition = "bottom" #tranquilpeak
