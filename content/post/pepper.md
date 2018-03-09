@@ -52,30 +52,19 @@ PATH = {{ site.url }}{{ site.baseurl }}/assets/images/hoge.jpg
 上のmarkdownの記法のうち、下の文法を使って  
 画像を貼ってみる。  
 
+{{< image classes="clear" src="https://farm5.staticflickr.com/4799/40699154741_d388e9a620_m.jpg" >}}
 
-![pepper01]({{ site.url }}{{ site.baseurl }}/assets/images/01.jpg)
-![pepper02]({{ site.url }}{{ site.baseurl }}/assets/images/02.jpg)
-![pepper03]({{ site.url }}{{ site.baseurl }}/assets/images/03.jpg)
-![pepper04]({{ site.url }}{{ site.baseurl }}/assets/images/04.jpg)
-![pepper05]({{ site.url }}{{ site.baseurl }}/assets/images/05.jpg)
-![pepper06]({{ site.url }}{{ site.baseurl }}/assets/images/06.jpg)
-![pepper010]({{ site.url }}{{ site.baseurl }}/assets/images/07.jpg)
-![pepper08]({{ site.url }}{{ site.baseurl }}/assets/images/08.gif)
-![pepper09]({{ site.url }}{{ site.baseurl }}/assets/images/09.gif)
+{{< image classes="clear" src="https://farm5.staticflickr.com/4801/39803597085_c1d9cea2fd_m.jpg" >}}
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4799/40699154741_d388e9a620_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4786/40699154911_6fde3e72b3_m.jpg" >}}
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4801/39803597085_c1d9cea2fd_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4772/39803597245_8cd66ffa39_m.jpg" >}}
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4786/40699154911_6fde3e72b3_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4793/40699155071_7bc0e4d4d8_m.jpg" >}}
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4772/39803597245_8cd66ffa39_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4787/39803597615_633413a7d5_m.jpg" >}}
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4793/40699155071_7bc0e4d4d8_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
-
-{{< image classes="clear" src="https://farm5.staticflickr.com/4787/39803597615_633413a7d5_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
-
-{{< image classes="clear" src="https://farm5.staticflickr.com/4799/40699155171_e5a46b2b6e_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4799/40699155171_e5a46b2b6e_m.jpg" >}}
 
 
 ## 追記

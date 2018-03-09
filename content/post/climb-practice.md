@@ -20,7 +20,7 @@ thumbnailImagePosition: left
 というのも、[筋肉には増強を効率化させる超回復というタイミング](https://papaoshigoto.com/archives/121)が存在し、その[超回復の期間は筋肉によって異なっているらしい](http://homegym-training.com/training/training1_06.html)ので、  
 
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4775/39803594825_364c810710_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4775/39803594825_364c810710_m.jpg" >}}
 
 [筋肉の成長に必要な超回復と分割法](http://homegym-training.com/training/training1_06.html)より引用。  
 

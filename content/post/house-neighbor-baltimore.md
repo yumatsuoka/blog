@@ -16,7 +16,7 @@ thumbnailImagePosition: left
 ## いま住んでいる家
 
 いまハウスシェアをして住んでいる家は下の画像の水色の家。  
-{{< image classes="clear" src="https://farm5.staticflickr.com/4799/40699154231_b8b5c1deee_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4799/40699154231_b8b5c1deee_m.jpg" >}}
 
 
 車が４台程度止められるスペースがあり、ベッドルームは6個、バストイレが2個、地下室1つの比較的大きな家だが、近くにいくと見た目はボロく、中に入ると内装がぼろい、つまり全てがぼろい。  
@@ -32,7 +32,7 @@ thumbnailImagePosition: left
 
 治安の悪さの例として、隣の道には歩道にベッドが落ちていた。日本ではありえない。  
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4777/39803596255_3260a4b2fb_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4777/39803596255_3260a4b2fb_m.jpg" >}}
 
 [過去の記事]()にも書いたが、誰も歩いていない道に、ゴミが落ちていて、周りの家に自然を感じない、手入れがされていない場所はとても危険な場所ということを示している。  
 
@@ -41,7 +41,7 @@ thumbnailImagePosition: left
 自分の家から3分ほど住宅街に歩くと薬物、主にヘロイン？の売人がたむろしている酒屋さん(liqour shop)に着く。  
 ボルチモアに半年住んで慣れても、この場所からは一刻も早く立ち去りたい雰囲気だ。  
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4771/38888526370_f09eec56eb_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4771/38888526370_f09eec56eb_m.jpg" >}}
 
 危険な地域、住宅街はだいたい写真のような家の前に階段があり、褐色で汚れた建物が並んでいる。  
 アメリカを舞台にした映画で、物騒なことが起きる雰囲気がそのままここには存在する。  
@@ -63,7 +63,7 @@ thumbnailImagePosition: left
 ここ2週間ほど、ずーっと営業していなかったので、今回立ち止まって観察してみると、ドアに貼り付けられた注意書きが増えて、ガラスの入り口のドアにヒビが入っていた。
 
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4795/40699154111_3311604425_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4795/40699154111_3311604425_m.jpg" >}}
 
 
 ドアの注意書きには、2つ興味深いことが書いてある。

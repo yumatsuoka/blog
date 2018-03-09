@@ -55,7 +55,7 @@ R.P.は、ボルダーV4、トップロープ5.10d、オンサイトはボルダ
 
 初めて登った5.10aのルート。クライミングを初めて実質1ヶ月くらい。
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4781/40699154031_88a2c9d7ba_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4781/40699154031_88a2c9d7ba_m.jpg" >}}
 
 
 ジョンズホプキンス大学の5.10d(クラックあり)は、結構得意系なルートで5回完登。
@@ -64,12 +64,12 @@ R.P.は、ボルダーV4、トップロープ5.10d、オンサイトはボルダ
 身長が低い人は最初からハング越えのジャンプ(課題作った本人もジャンプ)、
 ポケットの連続のあとの2度目のハングからは傾斜があるのに足が置きづらく、腕で持ち上げていくラスト4ホールド  
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4771/40699153971_a07173433b_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4771/40699153971_a07173433b_m.jpg" >}}
 
 ちょうど2ヶ月のタイミングで一発完登した、初めての5.11台のルート(5.11a)。
 横の壁と壁の境目の出っ張り(arete)を使って登る。腕はほぼ使わず、どれだけ工夫して体を上に押し上げるかの課題。
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4800/39803596115_798468efbd_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4800/39803596115_798468efbd_m.jpg" >}}
 
 
 あと半年で、ホプキンスの5.12aまで登るのが目標。

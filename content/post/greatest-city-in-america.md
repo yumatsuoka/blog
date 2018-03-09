@@ -18,7 +18,7 @@ thumbnailImagePosition: left
 > The Greatest City in America  
 ボルチモアの街に設置してあるベンチにはそう書いてある。  
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4798/39808972795_7469d1c8b8_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4798/39808972795_7469d1c8b8_m.jpg" >}}
 
 
 日本語に訳すなら、アメリカで最高の街(市)  

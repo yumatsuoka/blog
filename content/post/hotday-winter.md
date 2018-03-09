@@ -34,9 +34,9 @@ thumbnailImagePosition: left
 
 多くの人が芝生にいたが、驚いたのはこの学生たちの振る舞い。  
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4774/38888526500_c738f3ef40_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4774/38888526500_c738f3ef40_m.jpg" >}}
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4781/38888526570_0033806db4_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4781/38888526570_0033806db4_m.jpg" >}}
 
 みんなそれぞれ好みの音楽を大音量でかけていて、  
 中にはどこからかバックパックよりも大きいスピーカーを持ってきている人もいた。  
@@ -54,5 +54,4 @@ thumbnailImagePosition: left
 アメリカの大学にいるという実感がした。  
 
 そんな1日だった。  
-
 

@@ -41,11 +41,11 @@ thumbnailImagePosition: left
 
 そんな風の中、大学に歩いていくと案の定、大きな古い木の一部が折れて道路に落ちていた。  
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4775/38888527360_8506a1e539_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4775/38888527360_8506a1e539_m.jpg" >}}
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4778/40699153811_b67ca795f0_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4778/40699153811_b67ca795f0_m.jpg" >}}
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4776/39803595995_865606172f_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4776/39803595995_865606172f_m.jpg" >}}
 
 たくさん木の枝が折れてて落ちているので、車に落ちることはないのか気になって歩いていたところ  
 窓ガラスがない車を発見。  
@@ -55,12 +55,12 @@ thumbnailImagePosition: left
 
 
 大きな木の上半分が完全に折れていて、車２台分くらいの長さ、太さは人間の体くらいの木の一部が車の上に落下していた。  
-{{< image classes="clear" src="https://farm5.staticflickr.com/4793/39803595735_059656d7db_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4793/39803595735_059656d7db_m.jpg" >}}
 
 そんなものが車に落下すれば、車も無事ではなく  
 直撃は避けられていたのだろうが、下の写真のように交通事故にあった車のように壊れていた。  
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4772/39803595685_d7dd0c8044_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4772/39803595685_d7dd0c8044_m.jpg" >}}
 
 ## 信号機や標識がちぎれそう。さすがアメリカクオリティ
 
