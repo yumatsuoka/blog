@@ -7,7 +7,7 @@ categories: [ブログ, モチベーション]
 autoThumbnailImage: false
 thumbnailImagePosition: left
 thumbnailImage: //farm5.staticflickr.com/4798/39808101785_3a65e559f2_m.jpg
-#coverImage:
+coverImage: //farm5.staticflickr.com/4794/38888525760_5abef9038f_m.jpg
 
 ---
 

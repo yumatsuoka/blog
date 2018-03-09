@@ -6,7 +6,7 @@ categories: [ブログ, クライミング, ]
 
 autoThumbnailImage: true
 thumbnailImagePosition: left
-thumbnailImage: //farm5.staticflickr.com/4790/26833413588_13ac492015_m.jpg
+thumbnailImage: //farm5.staticflickr.com/4794/40705797901_20076be954_m.jpg
 #coverImage:
 
 ---
