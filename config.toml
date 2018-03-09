@@ -24,7 +24,7 @@ canonifyURLs = true
 
 [author] #tranquilpeak
 	name = "yumatsuoka"
-    bio = "ジョンズホプキンス大学の大学院生としてAI研究をしています。ボルチモアに住み、ボルダリングやロープクライミングにはまっています。" #tranquilpeak
+    bio = "ボルチモアのジョンズホプキンス大学に留学中。ボルダリングやロープクライミングにはまっています。" #tranquilpeak
     job = "学生"
     location = "Baltimore, US" #tranquilpeak
 	#email = "a.iebako.yuma@gmail.com"
@@ -41,7 +41,7 @@ canonifyURLs = true
     hierarchicalCategories = false #tranquilpeak
     description = "ボルチモアのジョンズホプキンス大学で研究しつつ、クライミングやボルダリングをする日々" #tranquilpeak
     sidebarBehavior = 1 #tranquilpeak これがサイドバーのレイアウトを変えるフラグ1から6まで。
-    coverImage = "https://farm5.staticflickr.com/4771/39803593975_699a7ef257.jpg" #tranquilpeak googlephotoなどクラウド上にあげられる場合はurl, またはローカル
+    coverImage = "cover.jpg" #tranquilpeak googlephotoなどクラウド上にあげられる場合はurl, またはローカル
     imageGallery = true #tranquilpeak
     thumbnailImage = true #tranquilpeak
     thumbnailImagePosition = "bottom" #tranquilpeak
