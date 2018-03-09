@@ -125,6 +125,12 @@ page = [ "HTML", "AMP" ] #robust
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/yumatsuoka"
+[[menu.links]]
+  weight = 1
+  identifier = "instagram"
+  name = "instagram"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-instagram\"></i>"
+  url = "https://www.instagram.com/yumatsuge/"
 [[menu.misc]]
   weight = 1
   identifier = "rss"
