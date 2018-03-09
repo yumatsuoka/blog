@@ -4,7 +4,7 @@ theme = "hugo-tranquilpeak-theme"
 # information
 title = "日々のできごとを思うがままに"
 baseURL = "https://yumatsuoka.github.io/blog"
-languageCode = "ja-jp"
+languageCode = "ja"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 googleAnalytics = "UA-112843722-2"
