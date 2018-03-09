@@ -1,7 +1,14 @@
 ---
 title: "クライミングを始めて2ヶ月の進捗 V4と5.11aまで"
-tags: []
+date: 2018-02-07
+draft: false
 categories: [ブログ, 留学, クライミング, ]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 クライミングを始めて2ヶ月の進捗を印象的な内容とともに、時系列に振り返ってみる。  

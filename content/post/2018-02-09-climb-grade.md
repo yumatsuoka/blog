@@ -1,7 +1,14 @@
 ---
 title: "ホームジムのアメリカのグレードと登れてる人の割合をまとめてみた"
-tags: []
+date: 2018-02-09
+draft: false
 categories: [ブログ, 留学, クライミング, ホプキンス]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 クライミングのグレードは絶対的なものではなく、主観的な要素が強そうなので、  

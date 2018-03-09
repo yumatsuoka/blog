@@ -1,7 +1,14 @@
 ---
 title: "アメリカのクライミング事情とホームジム"
-tags: []
+date: 2018-02-03
+draft: false
 categories: [ブログ, クライミング, 留学, ホプキンス]
+
+autoThumbnailImage: false
+thumbnailImagePosition: left
+thumbnailImage: //farm5.staticflickr.com/4792/39808207185_cf1483e2da_m.jpg
+#coverImage:
+
 ---
 
 アメリカに留学して5ヶ月が過ぎようとしているいま、趣味と呼べるのは、クライミングになった。 

@@ -1,7 +1,14 @@
 ---
 title: "ボルチモアの移動手段と公共交通機関とその危険性"
-tags: []
+date: 2018-02-04
+draft: false
 categories: [ブログ, 留学, ボルチモア, アメリカ]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 ボルチモアはアメリカではそこまで都会な街では無いため、ニューヨークやワシントンD.C.で発達している市街地を網羅する地下鉄のような公共交通機関が無い。  

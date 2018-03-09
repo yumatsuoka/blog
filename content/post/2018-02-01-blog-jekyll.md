@@ -1,7 +1,14 @@
 ---
 title: "Github Pages + Jekyll で作るブログ"
-tags: []
+date: 2018-02-01
+draft: false
 categories: [blog, web]
+
+autoThumbnailImage: false
+thumbnailImagePosition: left
+thumbnailImage: //farm5.staticflickr.com/4795/40660889342_259bc9d6a2_m.jpg
+#coverImage:
+
 ---
 
 GitHub Pages + Jekyll + minimal-mistakesを使ってブログを作ってみた。その作業の備忘録。  

@@ -1,7 +1,14 @@
 ---
 title: "アメリカの危険な場所の見分け方"
-tags: []
+date: 2018-02-03
+draft: false
 categories: [ブログ, 留学, ボルチモア, アメリカ]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+thumbnailImage: 
+#coverImage: 
+
 ---
 
 ボルチモアで学んだアメリカの治安の悪い場所の見分け方、気をつける場所についてまとめてみた。  

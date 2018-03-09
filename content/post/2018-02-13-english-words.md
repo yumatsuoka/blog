@@ -1,7 +1,14 @@
 ---
 title: "アメリカで学んだ日本の学校で学ばない英単語"
-tags: []
+date: 2018-03-07
+draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア, 英語]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 アメリカに来て初めて知った英単語をまとめてみる。スラングが多いのかも。  

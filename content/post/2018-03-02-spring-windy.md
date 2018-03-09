@@ -1,7 +1,14 @@
 ---
 title: "アメリカの風の強い日。"
-tags: []
+date: 2018-03-02
+draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 3月に入って2日目。昨夜からとても風が強かった。そして半日たった今でも相当強いのでここに様子をまとめる。  

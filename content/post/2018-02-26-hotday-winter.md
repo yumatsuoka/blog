@@ -1,7 +1,14 @@
 ---
 title: "2月の26度を超える暑い日"
-tags: []
+date: 2018-03-07
+draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 先日、アメリカのボルチモアで、日本の冬2月ではありえない、**気温が26度** を超える日があった。  

@@ -1,8 +1,7 @@
 ---
 title: "自分なりに気づいた気をつけるべきクライミングのこつ"
-date: 2018-03-07
+date: 2018-02-10
 draft: false
-tags: []
 categories: [ブログ, 留学, クライミング, ]
 
 autoThumbnailImage: true

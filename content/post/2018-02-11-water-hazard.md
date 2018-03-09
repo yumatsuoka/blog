@@ -1,7 +1,14 @@
 ---
 title: "アメリカのボルチモアの家の地下室が水浸しになって真冬に水風呂にはいった話"
-tags: []
+date: 2018-02-11
+draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 過去にあった留学中の体験をここに書きたい。2度目があれば、その時にまとめて書きたかったが、おそらく同じ体験は2度と起きないだろう。  

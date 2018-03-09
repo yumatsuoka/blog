@@ -1,7 +1,14 @@
 ---
 title: "ボルチモアの治安が悪い理由を考えてわかった現代の奴隷社会の現実"
-tags: []
+date: 2018-03-04
+draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 世界でも指折りの治安の悪い街、ボルチモア。そこまで治安が悪い理由について考えてみた。  

@@ -1,7 +1,14 @@
 ---
 title: "クライミングの自分の練習内容をまとめてみた"
-tags: []
+date: 2018-02-07
+draft: false
 categories: [ブログ, クライミング, ]
+
+autoThumbnailImage: false
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 週３回で2ヶ月続けている２時間のクライミングの練習を振り返るためにまとめてみた。  

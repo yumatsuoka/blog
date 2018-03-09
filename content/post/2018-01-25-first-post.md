@@ -2,12 +2,11 @@
 title: "First post. 書きたいこと。"
 date: 2018-01-25
 draft: false
-tags: []
 categories: [ブログ, モチベーション]
 
-autoThumbnailImage: true
+autoThumbnailImage: false
 thumbnailImagePosition: left
-#thumbnailImage:
+thumbnailImage: //farm5.staticflickr.com/4798/39808101785_3a65e559f2_m.jpg
 #coverImage:
 
 ---

@@ -1,7 +1,14 @@
 ---
 title: "クライミングを始めて3ヶ月目の進捗"
-tags: []
+date: 2018-03-03
+draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア, クライミング, ホプキンス]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 クライミングを始めて3ヶ月たったので、進捗をまとめてみる。  

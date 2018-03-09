@@ -1,7 +1,14 @@
 ---
 title: "治安の悪い家の近所を散歩した"
-tags: []
+date: 2018-03-06
+draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 天気が良かったので、治安の悪い家の近所を歩いてみた。  

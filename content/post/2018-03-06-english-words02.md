@@ -1,7 +1,14 @@
 ---
 title: "アメリカで学んだ日本の学校で学ばない英単語②"
-tags: []
+date: 2018-03-06
+draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア, 英語]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 大学の授業やミーティングでは使わないが、日常会話でよく使う英単語をまとめた。  

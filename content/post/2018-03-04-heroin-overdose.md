@@ -1,7 +1,14 @@
 ---
 title: "同居人がヘロインの過剰摂取で死にかけている話"
-tags: []
+date: 2018-03-04
+draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 一緒に住んでいる人がヘロインのオーバードス(薬物の過剰摂取)で死にかけて、病院に入院した。  

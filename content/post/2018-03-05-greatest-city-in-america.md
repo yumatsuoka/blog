@@ -1,7 +1,14 @@
 ---
 title: "The Greatest City in America"
-tags: []
+date: 2018-03-05
+draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 ボルチモアは自身のことをどう紹介するのか？  

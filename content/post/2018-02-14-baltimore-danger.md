@@ -1,7 +1,14 @@
 ---
 title: "アメリカのボルチモアで感じた治安の悪さ"
-tags: []
+date: 2018-02-14
+draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア]
+
+autoThumbnailImage: true
+thumbnailImagePosition: left
+#thumbnailImage:
+#coverImage:
+
 ---
 
 これまで5ヶ月間、アメリカのボルチモアに住んでみて体験した危険そうな体験をまとめてみる。  
