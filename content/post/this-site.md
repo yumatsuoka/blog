@@ -6,7 +6,7 @@ categories: [ブログ]
 
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: //farm5.staticflickr.com/4776/26834383098_42a4ed69a4_o.jpg
+thumbnailImage: //farm5.staticflickr.com/4802/25834784467_4b266c640b_o.jpg
 coverImage: //farm5.staticflickr.com/4788/26834384968_db88b66583_o.jpg
 
 ---
