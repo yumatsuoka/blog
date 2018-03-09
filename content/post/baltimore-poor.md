@@ -32,7 +32,7 @@ USA > MD(メリーランド州) > (なし) > Baltimore(ボルチモア市)
 
 Google Mapの写真を以下に貼る。  
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4799/39803594945_180626883b_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4799/39803594945_180626883b_m.jpg" >}}
 
 ボルチモア市を囲うように赤い線で囲まれた地域がボルチモア郡だ。  
 この**ボルチモアという街はボルチモア郡から独立した市であるという事実が重要だ。**  

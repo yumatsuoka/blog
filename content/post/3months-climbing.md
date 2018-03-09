@@ -51,14 +51,14 @@ thumbnailImagePosition: left
 先月休み休み登りきったルートは最高で1ミス・テンションで、R.Pを逃している状態。  
 
 5.10dがこの1ヶ月で新しくできて、まだ完登できずに苦しんでいる。休み休みなら登れる状態。
-{{< image classes="clear" src="https://farm5.staticflickr.com/4793/38893728600_f26a43f848_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4793/38893728600_f26a43f848_m.jpg" >}}
 
 
 新たにトライしている5.11aルートのうち2つ(以下の画像)は、初めてトライして休み休み1度上まで登りきったが、それ以降は途中で腕が売り切れ、リタイヤする状態が続いている。  
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4784/39808650875_392568d3ec_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4784/39808650875_392568d3ec_m.jpg" >}}
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4774/26832319528_801773acf3_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4774/26832319528_801773acf3_m.jpg" >}}
 
 自分自身思い、周りの人から言われるのが、なぜ1度登れているルートが2度目で同じように登れないのか、ということ。  
 
@@ -71,7 +71,7 @@ thumbnailImagePosition: left
 5.11aの最後のルートはこの2週間くらいでチャレンジを始めて、スタートのダブルダイノは登れるようになったが、確信のポイントで歯がたたず、突破できずに苦しんでいる。  
 
 5.11aのなかで一番難しい最後のルートを撮影した画像を以下に貼る。  
-{{< image classes="clear" src="https://farm5.staticflickr.com/4776/40699155011_bfcea7843b_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4776/40699155011_bfcea7843b_m.jpg" >}}
 
 
 最初は、少し傾斜のある中、ダブルダイノで脳みそのような大きなスローパーに飛びついてぶら下がるところから始まる。  
