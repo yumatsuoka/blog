@@ -6,7 +6,7 @@ categories: [ブログ, 留学, クライミング, ]
 
 autoThumbnailImage: true
 thumbnailImagePosition: left
-#thumbnailImage:
+thumbnailImage: //farm5.staticflickr.com/4780/25833793487_b8c54db255_m.jpg
 #coverImage:
 
 ---

@@ -6,7 +6,7 @@ categories: [ブログ, 留学, クライミング, ホプキンス]
 
 autoThumbnailImage: true
 thumbnailImagePosition: left
-#thumbnailImage:
+thumbnailImage: //farm5.staticflickr.com/4792/38894741270_4a7bf29e3a_m.jpg
 #coverImage:
 
 ---

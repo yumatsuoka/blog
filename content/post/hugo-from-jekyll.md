@@ -7,7 +7,7 @@ categories: ["ブログ", "web"]
 
 autoThumbnailImage: true
 thumbnailImagePosition: left
-#thumbnailImage:
+thumbnailImage: //farm5.staticflickr.com/4792/39808207185_cf1483e2da_m.jpg
 #coverImage: 
 ---
 

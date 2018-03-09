@@ -4,9 +4,9 @@ date: 2018-02-07
 draft: false
 categories: [ブログ, クライミング, ]
 
-autoThumbnailImage: false
+autoThumbnailImage: true
 thumbnailImagePosition: left
-#thumbnailImage:
+thumbnailImage: //farm5.staticflickr.com/4790/26833413588_13ac492015_m.jpg
 #coverImage:
 
 ---

@@ -4,9 +4,9 @@ date: 2018-03-03
 draft: false
 categories: [ブログ, 留学, アメリカ, ボルチモア, クライミング, ホプキンス]
 
-autoThumbnailImage: true
+autoThumbnailImage:
 thumbnailImagePosition: left
-#thumbnailImage:
+thumbnailImage: //farm5.staticflickr.com/4799/39809902375_75cf0f4d24_m.jpg
 #coverImage:
 
 ---
