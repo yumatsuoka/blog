@@ -1,6 +1,6 @@
 ---
 title: "Github Pages + Jekyll で作るブログ"
-tags: [jekyll, web, minimal-mistakes]
+tags: []
 categories: [blog, web]
 ---
 
