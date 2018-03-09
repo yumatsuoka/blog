@@ -89,7 +89,7 @@ ga('send', 'pageview');
       <i class="fa fa-remove"></i>
     </div>
     
-      <img id="about-card-picture" src="https://farm5.staticflickr.com/4786/39803594885_c76f9290a3_z.jpg" alt="プロフィール画像" />
+      <img id="about-card-picture" src="https://farm5.staticflickr.com/4786/39803594885_c76f9290a3_z.jpg" alt="Author&#39;s picture" />
     
     <h4 id="about-card-name">yumatsuoka</h4>
     
@@ -123,11 +123,11 @@ ga('send', 'pageview');
       <i class="search-icon fa fa-search"></i>
       <form id="algolia-search-form">
         <input type="text" id="algolia-search-input" name="search"
-          class="form-control input--large search-input" placeholder="検索" />
+          class="form-control input--large search-input" placeholder="Search" />
       </form>
     </div>
     <div class="modal-body">
-      <div class="no-result text-color-light text-center"></div>
+      <div class="no-result text-color-light text-center">no post found</div>
       <div class="results">
         
         
@@ -314,9 +314,9 @@ ga('send', 'pageview');
     </div>
     <div class="modal-footer">
       <p class="results-count text-medium"
-         data-message-zero=""
-         data-message-one=""
-         data-message-other="">
+         data-message-zero="no post found"
+         data-message-one="1 post found"
+         data-message-other="{n} posts found">
          22 posts found
       </p>
     </div>
