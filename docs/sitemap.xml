@@ -46,16 +46,6 @@
   </url>
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/tags/jekyll/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yumatsuoka.github.io/blog/tags/minimal-mistakes/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yumatsuoka.github.io/blog/post/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -68,11 +58,6 @@
   
   <url>
     <loc>https://yumatsuoka.github.io/blog/1/01/01/2018-03-05-greatest-city-in-america/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yumatsuoka.github.io/blog/tags/web/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
