@@ -23,12 +23,14 @@ thumbnailImagePosition: left
 同じブロック(区画)の反対側のマンホールから水が溢れ出していて、歩道を伝って自分の家の前まで流れていることがわかった。  
 
 ![stf]({{ site.url }}{{ site.baseurl }}/assets/images/waterh_03.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4799/40699155171_e5a46b2b6e_z.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 歩道が川のように水浸しなのは、日本ではありえないが、問題がないなら「さすがアメリカや」と呟いて終わりである。  
 しかし、そのブロックのうち自分の家の庭が歩道より下がっていた。そのため、家の庭が水の通り道になっていた。  
 
 
 ![stf]({{ site.url }}{{ site.baseurl }}/assets/images/waterh_02.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4791/39803593905_388e2b670b_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 (朝撮った写真)  
 
 庭が田んぼみたいになる前に水が止まってくれーと思いながら家に入った。  
@@ -42,9 +44,10 @@ thumbnailImagePosition: left
 さすがに地下室がプールみたいになっていたら嫌なので恐る恐る地下室をのぞいてみると  
 
 
-![stf]({{ site.url }}{{ site.baseurl }}/assets/images/waterh_04.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4775/39803595335_b2e83b2e72_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
-![stf]({{ site.url }}{{ site.baseurl }}/assets/images/waterh_05.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4796/39803595405_54050c782a_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+
 (とても汚いのは大家さん含めて誰も掃除しないからです。絶対に足をつけたくない。)
 
 やっぱり、浸水してた。  
@@ -58,7 +61,7 @@ thumbnailImagePosition: left
 
 大家さんの対処に興味があって地下室に降りてみると、  
 
-![stf]({{ site.url }}{{ site.baseurl }}/assets/images/waterh_06.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4772/39803593785_57a80be5f0_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 くるぶしぐらいまで(１０センチくらい)浸水していて、どこから持って来たかわからないが、ポンプを動かして下水菅に流し込んでいた。  
 
@@ -100,7 +103,7 @@ thumbnailImagePosition: left
 
 家の前の道路はこの通り、  
 
-![stf]({{ site.url }}{{ site.baseurl }}/assets/images/waterh_01.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4787/39803595565_174dd640e4_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 スケートリンクみたいに凍っていて、とても滑りやすく、この後数日は  
 ホーム・アローンの映画に出ていたいたずらされて氷で滑りまくっていたドロボウの気持ちが理解できた。  

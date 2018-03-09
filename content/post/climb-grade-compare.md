@@ -23,7 +23,7 @@ thumbnailImagePosition: left
 ボルダリングの対応表を以下に引用する。  
 
 
-![grade-compare]({{ site.url }}{{ site.baseurl }}/assets/images/climb-grade01.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4778/39803594855_25950593aa_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 [グレード比較表](https://www.climbing-net.com/general/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89%E6%AF%94%E8%BC%83%E8%A1%A8/)より引用。  
 

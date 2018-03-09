@@ -82,7 +82,7 @@ thumbnailImage: //farm5.staticflickr.com/4792/39808207185_cf1483e2da_m.jpg
 一番驚いたのは、子供専用の(そこまで高くない)トップロープの壁が普通のロープの壁と同じくらい別に用意されていることである。   
 スペースに余裕のあるアメリカだからできることだと思うが、このような工夫が人々の日常にクライミング を根付かせるポイントなのかなーと思った。  
 
-![earthtreks01]({{ site.url }}{{ site.baseurl }}/assets/images/first_climb01.jpg)
+{{< image classes="clear" src="https://farm5.staticflickr.com/4780/40699154361_175d7b8929_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 料金に関しては、  
 １日利用が２２ドル(2300円くらい)  
@@ -102,7 +102,7 @@ thumbnailImage: //farm5.staticflickr.com/4792/39808207185_cf1483e2da_m.jpg
 
 いま週３で通っているのが、留学先の[ジョンズホプキンズ大学の壁](https://studentaffairs.jhu.edu/recreation/facilities/climbing-wall/)である。  
 
-![hopkins01]({{ site.url }}{{ site.baseurl }}/assets/images/first_climb02.jpg)
+{{< image classes="clear" src="https://farm5.staticflickr.com/4773/39803596385_a00d6eecea_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 ホプキンスの学生ならトップロープ壁もボルダーも無料で使えて、  
 シューズのレンタルは1ドル(100円くらい)だが、学生が大学の施設を運営していることもあり、実際のところ無料。  

@@ -63,7 +63,7 @@ PATH = {{ site.url }}{{ site.baseurl }}/assets/images/hoge.jpg
 ![pepper08]({{ site.url }}{{ site.baseurl }}/assets/images/08.gif)
 ![pepper09]({{ site.url }}{{ site.baseurl }}/assets/images/09.gif)
 
-{{< image classes="clear" src="https://farm5.staticflickr.com/4799/40699155171_e5a46b2b6e_z.jpg" " thumbnail-width="150px" thumbnail-height="300px" >}}
+{{< image classes="clear" src="https://farm5.staticflickr.com/4799/40699155171_e5a46b2b6e_z.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 {{< image classes="clear" src="https://photos.app.goo.gl/H0cii8K53w3E5wzE2" thumbnail-width="150px" thumbnail-height="300px" >}}
 {{< image classes="clear" src="https://photos.app.goo.gl/koQTbhkQ8feVvDLi2" thumbnail-width="150px" thumbnail-height="300px" >}}
 {{< image classes="clear" src="https://photos.app.goo.gl/erZZoEwvqnnLzIDn1" thumbnail-width="150px" thumbnail-height="300px" >}}

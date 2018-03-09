@@ -41,11 +41,11 @@ thumbnailImagePosition: left
 
 そんな風の中、大学に歩いていくと案の定、大きな古い木の一部が折れて道路に落ちていた。  
 
-![hoge01]({{ site.url }}{{ site.baseurl }}/assets/images/spring-windy01.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4775/38888527360_8506a1e539_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
-![hoge02]({{ site.url }}{{ site.baseurl }}/assets/images/spring-windy02.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4778/40699153811_b67ca795f0_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
-![hoge03]({{ site.url }}{{ site.baseurl }}/assets/images/spring-windy05.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4776/39803595995_865606172f_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 たくさん木の枝が折れてて落ちているので、車に落ちることはないのか気になって歩いていたところ  
 窓ガラスがない車を発見。  
@@ -55,25 +55,27 @@ thumbnailImagePosition: left
 
 
 大きな木の上半分が完全に折れていて、車２台分くらいの長さ、太さは人間の体くらいの木の一部が車の上に落下していた。  
-![hoge04]({{ site.url }}{{ site.baseurl }}/assets/images/spring-windy03.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4793/39803595735_059656d7db_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 そんなものが車に落下すれば、車も無事ではなく  
 直撃は避けられていたのだろうが、下の写真のように交通事故にあった車のように壊れていた。  
 
-![hoge04]({{ site.url }}{{ site.baseurl }}/assets/images/spring-windy04.jpg)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4772/39803595685_d7dd0c8044_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 ## 信号機や標識がちぎれそう。さすがアメリカクオリティ
 
-この日の風の強さを紹介するために動作を２つ撮った。  
+この日の風の強さを紹介するために動画を２つ撮った。  
 
 最初見た時は目を疑った。強い風邪で、鉄の柱で作られた道路標識がゴムの棒のようにビヨンビヨンしなっていた。  
 
+(2018年3月9日追記、Hugoに変えたことによりgifが見れなくなったのでリンク切れ)
 ![hoge06]({{ site.url }}{{ site.baseurl }}/assets/images/spring-windy07.gif)  
 
 
 さらにアメリカの信号機は古いものだと、ワイヤーで交差点の上に吊り下げられていることが多く、  
 この信号機も風鈴のように大きな音を立てて、風に煽られていた。  
 
+(2018年3月9日追記、Hugoに変えたことによりgifが見れなくなったのでリンク切れ)
 ![hoge05]({{ site.url }}{{ site.baseurl }}/assets/images/spring-windy06.gif)    
 
 さすが、強風のレベルもアメリカサイズというか、  

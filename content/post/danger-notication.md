@@ -92,7 +92,7 @@ thumbnailImage:
 住んでいる家の隣のブロックのコインランドリーの写真。  
 窓には全て鉄格子がはまっており、入り口の窓ガラスは割れている。  
 さらに上下水システムが壊れて、道路が水浸しになり、そのまま凍りついている。
-![danger07]({{ site.url }}{{ site.baseurl }}/assets/images/danger07.jpg)
+{{< image classes="clear" src="https://farm5.staticflickr.com/4771/39803594605_8453190bbb_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 ### 落書きのある場所、ゴミが落ちている場所は危険。
 
@@ -100,19 +100,20 @@ thumbnailImage:
 
 ゴミが落ちている場所は、ゴミを道に平気で捨てる人(日本人だとありえない感覚)が歩いている、車を止めている場所であり、同時にその通りに住む人も同じような人である可能性が高いので、近づかないほうが良い。  
 
-![danger02]({{ site.url }}{{ site.baseurl }}/assets/images/danger02.jpg)
+{{< image classes="clear" src="https://farm5.staticflickr.com/4785/40699154501_376ab249ca_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 ### 周りに自然を感じない、住宅街は危険。
 貧困層の家には木や芝生などが少ない傾向があるので、歩くなら自然を感じる場所・通りが良い。
 
 危ない通り
 
-![danger06]({{ site.url }}{{ site.baseurl }}/assets/images/danger06.JPG)
+{{< image classes="clear" src="https://farm5.staticflickr.com/4789/39803596465_e5f6cb6e0d_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 安全な通り
 
-![danger01]({{ site.url }}{{ site.baseurl }}/assets/images/danger01.JPG)
-![danger05]({{ site.url }}{{ site.baseurl }}/assets/images/danger05.jpg)
+{{< image classes="clear" src="https://farm5.staticflickr.com/4782/39803596645_a9635c0882_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+
+{{< image classes="clear" src="https://farm5.staticflickr.com/4779/39803596885_3b39c6bf72_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 ### 近くにliqur shopのある場所は危険。
 
@@ -135,10 +136,10 @@ crime map
 以下に2017年11月某日のボルチモアの犯罪の分布図を載せる。  
 
 ボルチモアの中心部の１日か２日間の犯罪一覧
-![danger03]({{ site.url }}{{ site.baseurl }}/assets/images/danger03.png)
+{{< image classes="clear" src="https://farm5.staticflickr.com/4789/39803594725_93a2724fa0_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 shooting(発砲事件)のみ表示(1ヶ月間くらい)
-![danger04]({{ site.url }}{{ site.baseurl }}/assets/images/danger04.png)
+{{< image classes="clear" src="https://farm5.staticflickr.com/4771/39803594675_27a1764c51_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 
 ボルチモアなら、Penn Stationを中心にして西側と東側が危ないことが画像からわかる。  
@@ -172,6 +173,4 @@ shooting(発砲事件)のみ表示(1ヶ月間くらい)
 命が一番重要なので、守れるように準備をしておくべき。  
 また、事件に巻き込まれても大変なので、アメリカに住む予定の人は  
 日本とアメリカの治安は全く異なる。その違いを理解して、危険を察知する能力は身につけておくべきだと思う。  
-
-
 

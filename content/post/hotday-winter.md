@@ -34,8 +34,9 @@ thumbnailImagePosition: left
 
 多くの人が芝生にいたが、驚いたのはこの学生たちの振る舞い。  
 
-![hoge01]({{ site.url }}{{ site.baseurl }}/assets/images/hotday-winter01.png)  
-![hoge02]({{ site.url }}{{ site.baseurl }}/assets/images/hotday-winter02.png)  
+{{< image classes="clear" src="https://farm5.staticflickr.com/4774/38888526500_c738f3ef40_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
+
+{{< image classes="clear" src="https://farm5.staticflickr.com/4781/38888526570_0033806db4_m.jpg" thumbnail-width="150px" thumbnail-height="300px" >}}
 
 みんなそれぞれ好みの音楽を大音量でかけていて、  
 中にはどこからかバックパックよりも大きいスピーカーを持ってきている人もいた。  
