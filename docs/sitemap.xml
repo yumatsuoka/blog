@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/2018/03/09/this-site/</loc>
-    <lastmod>2018-03-09T05:21:13-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yumatsuoka.github.io/blog/2018/03/07/hugo-from-jekyll/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
   </url>
@@ -23,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/2018/03/05/greatest-city-in-america/</loc>
+    <loc>https://yumatsuoka.github.io/blog/2018/03/05/baltimore-greatest-city-in-america/</loc>
     <lastmod>2018-03-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,12 +33,12 @@
   </url>
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/2018/03/03/3months-climbing/</loc>
+    <loc>https://yumatsuoka.github.io/blog/2018/03/03/climbing-3moths/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/2018/03/02/spring-windy-us/</loc>
+    <loc>https://yumatsuoka.github.io/blog/2018/03/02/spring-windy-usa/</loc>
     <lastmod>2018-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,22 +63,22 @@
   </url>
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/2018/02/10/climb-tips/</loc>
+    <loc>https://yumatsuoka.github.io/blog/2018/02/10/climbing-tips/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/2018/02/09/climb-grade-compare/</loc>
+    <loc>https://yumatsuoka.github.io/blog/2018/02/09/climbing-compare-grade-home/</loc>
     <lastmod>2018-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/2018/02/07/climb-practice/</loc>
+    <loc>https://yumatsuoka.github.io/blog/2018/02/07/climbing-practice/</loc>
     <lastmod>2018-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/2018/02/07/past-2month-climb/</loc>
+    <loc>https://yumatsuoka.github.io/blog/2018/02/07/climbing-2months/</loc>
     <lastmod>2018-02-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,12 +88,12 @@
   </url>
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/2018/02/03/climbing-first/</loc>
+    <loc>https://yumatsuoka.github.io/blog/2018/02/03/climbing-usa-gyms/</loc>
     <lastmod>2018-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/2018/02/03/danger-notication/</loc>
+    <loc>https://yumatsuoka.github.io/blog/2018/02/03/danger-notication-us/</loc>
     <lastmod>2018-02-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -136,7 +131,7 @@
   
   <url>
     <loc>https://yumatsuoka.github.io/blog/post/</loc>
-    <lastmod>2018-03-09T05:21:13-05:00</lastmod>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -171,7 +166,7 @@
   
   <url>
     <loc>https://yumatsuoka.github.io/blog/categories/%E3%83%96%E3%83%AD%E3%82%B0/</loc>
-    <lastmod>2018-03-09T05:21:13-05:00</lastmod>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -195,7 +190,7 @@
   
   <url>
     <loc>https://yumatsuoka.github.io/blog/</loc>
-    <lastmod>2018-03-09T05:21:13-05:00</lastmod>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
