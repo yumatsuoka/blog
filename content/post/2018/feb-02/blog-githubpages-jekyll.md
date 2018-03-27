@@ -2,7 +2,7 @@
 title: "Github Pages + Jekyll で作るブログ"
 date: 2018-02-01
 draft: false
-categories: [blog, web]
+categories: [ブログ, web]
 
 autoThumbnailImage: false
 thumbnailImagePosition: left

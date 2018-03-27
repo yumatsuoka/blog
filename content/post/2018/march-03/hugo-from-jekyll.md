@@ -14,6 +14,8 @@ thumbnailImage: //farm5.staticflickr.com/4792/39808207185_cf1483e2da_m.jpg
 
 ブログのデプロイをjekyllからHugoに変更した。
 
+(この記事は書きかけです。そのうちまとめます。申し訳ないです。)
+
 <!--more-->
 
 なんとなく、新しいことやって見たいと思ったから。
