@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://yumatsuoka.github.io/blog/2018/03/27/fucking-usps/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yumatsuoka.github.io/blog/2018/03/27/preparation-practicaly/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yumatsuoka.github.io/blog/2018/03/07/hugo-from-jekyll/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
   </url>
@@ -123,14 +133,7 @@
   </url>
   
   <url>
-    <loc>https://yumatsuoka.github.io/blog/categories/blog/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yumatsuoka.github.io/blog/categories/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -159,7 +162,7 @@
   
   <url>
     <loc>https://yumatsuoka.github.io/blog/categories/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB/</loc>
-    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -183,7 +186,7 @@
   
   <url>
     <loc>https://yumatsuoka.github.io/blog/categories/%E3%83%9C%E3%83%AB%E3%83%81%E3%83%A2%E3%82%A2/</loc>
-    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -201,7 +204,7 @@
   
   <url>
     <loc>https://yumatsuoka.github.io/blog/categories/%E7%95%99%E5%AD%A6/</loc>
-    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
