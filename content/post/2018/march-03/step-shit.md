@@ -7,7 +7,7 @@ categories: [ブログ, 留学, アメリカ, ボルチモア]
 
 autoThumbnailImage: true
 thumbnailImagePosition: left
-thumbnailImage: //farm1.staticflickr.com/821/41055744052_25eebd6a42_o.png
+thumbnailImage: //farm1.staticflickr.com/813/27230385168_6b5205f3d4_o.jpg
 #coverImage: 
 ---
 
@@ -25,9 +25,9 @@ thumbnailImage: //farm1.staticflickr.com/821/41055744052_25eebd6a42_o.png
 
 ## カーペットなどの掃除
 
-{{< image classes="clear" src="https://farm1.staticflickr.com/821/41055744052_25eebd6a42_o.png" >}}
+{{< image classes="clear" src="https://farm1.staticflickr.com/805/40208193685_3b91cd323e_o.jpg" >}}
 
-{{< image classes="clear" src="https://farm1.staticflickr.com/821/41055744052_25eebd6a42_o.png" >}}
+{{< image classes="clear" src="https://farm1.staticflickr.com/804/40208193585_4dd2ee2796_o.jpg" >}}
 
 ## うんちまみれの靴の処理
 

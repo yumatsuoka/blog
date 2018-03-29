@@ -7,11 +7,11 @@ categories: [ブログ, 留学, アメリカ, ボルチモア]
 
 autoThumbnailImage: true
 thumbnailImagePosition: left
-thumbnailImage: //farm1.staticflickr.com/821/27230385078_8ab71d8d4d_o.jpg
+thumbnailImage: //farm1.staticflickr.com/797/26231679507_7a494e42d5_o.jpg
 #coverImage: 
 ---
 
 
-{{< image classes="clear" src="https://farm1.staticflickr.com/822/41099187811_6ac6400b0f_o.jpg" >}}
+{{< image classes="clear" src="https://farm1.staticflickr.com/808/40204524265_04f7485346_o.jpg" >}}
 
 
