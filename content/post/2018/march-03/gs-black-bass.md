@@ -7,7 +7,7 @@ categories: [ブログ, 留学, アメリカ, ボルチモア]
 
 autoThumbnailImage: true
 thumbnailImagePosition: left
-thumbnailImage: //farm1.staticflickr.com/807/27187824958_37cb9033a8_o.jpg"
+thumbnailImage: //farm1.staticflickr.com/814/41099095631_789c624e30_o.jpg
 #coverImage: 
 ---
 
@@ -32,4 +32,5 @@ thumbnailImage: //farm1.staticflickr.com/807/27187824958_37cb9033a8_o.jpg"
 
 それだけなんだけど、さすが中国系のスーパーだなーと思った。
 
+ブラックバスは普通に食べられるんや。
 
